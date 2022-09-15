@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(182, 113, 247);
+}
+
+h1 {
+    margin: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+    border-style:inset;
+    
+}
